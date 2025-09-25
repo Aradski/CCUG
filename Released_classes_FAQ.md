@@ -67,7 +67,7 @@ ___
   If the feline idol is placed on the jester twin's mat, both of them will get the effects of carrying the idol. 
 </details>
 
-## 2. Custom conditoins and effects
+## 2. Custom conditions and effects
 
 ### <img src="assets/conditions-and-effects/Swing.svg" width="32" height="32" > SWING
 
