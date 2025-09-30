@@ -22,6 +22,35 @@ ___
 
 **What happens in an escape scenario?** Both the twin need to escape in order for the scenario to be completed. When they are stacked, they can escape through the same hex.
 
+**Items?** Either twin can activate items to perform/gain the benefits written on the item. Items with use slot are triggered by both twins. Items with passive bonuses are gained by both twins. Here are a list of FH items that are potentially confusing:
+
+<details>
+  <summary>FH items 41, 132, 240, 243</summary>
+  Only apply once.
+</details>
+
+<details>
+  <summary>FH items 180</summary>
+  Looting is counted separately.
+</details>
+
+<details>
+  <summary>FH items 03, 11, 58, 66, 79, 144, 146, 171, 178, 223</summary>
+  Only applies to one twin.
+</details>
+
+<details>
+  <summary>FH items 53, 139, 143, 152, 206</summary>
+  Counts the movement of the twins separately. Only the bottom twin is counted as moving when they are stacked.
+</details>
+
+<details>
+  <summary>FH items 21, 36, 48, 130, 138, 147</summary>
+  Applies to both twins.
+</details>
+
+**Scenarios?**
+
 <details>
   <summary>FH Scenario 15</summary>
   If the twins are stacked, both twins can move from a to b and stay stacked. If they are unstacked when either move from a to b, the remaining twin is left behind and can no longer leave tile 15-D (not recommended).
@@ -54,7 +83,12 @@ ___
 
 <details>
   <summary>FH Scenario 66</summary>
-  Scenario 66 Either twin can loot an elemental core and either can use the core on their character mat to activate an "A" hex. 
+  Either twin can loot an elemental core and either can use the core on their character mat to activate an "A" hex. 
+</details>
+
+<details>
+  <summary>FH Scenario 126</summary>
+  Either twin can loot an elemental core and either can use the core on their character mat to activate an "A" hex. 
 </details>
 
 <details>
