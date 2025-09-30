@@ -88,7 +88,7 @@ ___
 
 <details>
   <summary>FH Scenario 126</summary>
-  Either twin can loot an elemental core and either can use the core on their character mat to activate an "A" hex. 
+  Either twin can loot a token, place it on their character mat and deliver it to a Helper.
 </details>
 
 <details>
