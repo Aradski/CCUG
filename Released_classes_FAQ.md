@@ -1,6 +1,7 @@
 [1. Released classes](#1-released-classes)
 
 1. [Jester Twins](#11-jester-twins)
+2. [Skitterclaw](#12-skitterclaw)
 
 [2. Custom conditions and effects](#2-custom-conditions-and-effects)
 
@@ -99,6 +100,29 @@ ___
 <details>
   <summary>FH Scenario 133</summary>
   If the feline idol is placed on the jester twin's mat, both of them will get the effects of carrying the idol. 
+</details>
+
+### 1.2 Skitterclaw
+
+**Can multiple figures be Latched on the same figure?** Yes, there is no limit on the number of critters that can be Latched on a figure. 
+
+**Can critters move onto and be summoned in hexes containing objectives?** Yes, critters can move onto and Latch onto objectives. If you have the "You may summon critter summons in adjacent occupied hexes" perk, critters can be summoned in hexes with objectives as objectives are considered figures and the hexes they are in are considered occupied.
+
+**Can critters be summoned on a hex containing just critters?** This is possible only if you have the "You you summon critter summons in adjacent occupied hexes" perk.
+
+**Can critters be summoned on an occupied hex containing an overlay tile?** If the hex is featureless, such as with a corridor or pressure plate, then yes. If it is not featureless, such as with a trap, hazardous terrain, difficult terrain, icy terrain, and obstacle, then no.
+
+**Will critters try to be close to enemies (by moving from one ally to another) even if there is no viable path to reach the enemy?** No. Critters cannot enter an unoccupied hex unless commanded or controlled.
+
+**For the Swift Alliance Flock of Meadow Darts, do you decide if they act first or last at the start of the round, or at the start of your first summon's turn. Does this impact enemy focusing, or do enemies still focus based on summon order?** You decide at the start of your first summon's turn. It does not impact enemy focusing.
+
+**If an enemy focuses a critter and is forced to move through the hex occupied by the critter to reach a hex from which it can attack, what happens?** The enemy will finish its move, and since the critter Latched onto the enemy, the enemy will attack a different figure within range if one exists.
+
+**Items:**
+
+<details>
+  <summary>FH item 76</summary>
+  <b>Can the critter move onto unoccupied hexes?</b> Yes, since you are controlling the movement of the critter.
 </details>
 
 ## 2. Custom conditions and effects
