@@ -110,7 +110,9 @@ ___
 
 **Can critters be summoned on a hex containing just critters?** This is possible only if you have the "You you summon critter summons in adjacent occupied hexes" perk.
 
-**Can critters be summoned on an occupied hex containing an overlay tile?** If the hex is featureless, such as with a corridor or pressure plate, then yes. If it is not featureless, such as with a trap, hazardous terrain, difficult terrain, icy terrain, and obstacle, then no.
+**Can critters be summoned on an occupied hex containing an overlay tile?** If you have the "You may summon critter summons in adjacent occupied hexes" perk, yes.
+
+**When commanding or controlling a non-Latched critter to move onto an occupied hex containing an overlay tile, does that tile impact the critter?** If it is difficult terrain, the critter still requires two movement to get onto that hex. If it is an obstacle, the critter cannot move onto the hex. If it is hazardous terrain, icy terrain, or a trap, the critter Latches onto the figure before triggering the effect of the overlay tile.
 
 **Will critters try to be close to enemies (by moving from one ally to another) even if there is no viable path to reach the enemy?** No. Critters cannot enter an unoccupied hex unless commanded or controlled.
 
