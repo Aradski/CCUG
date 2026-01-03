@@ -23,6 +23,7 @@ ___
 
 **What happens in an escape scenario?** Both the twin need to escape in order for the scenario to be completed. When they are stacked, they can escape through the same hex.
 
+
 **Items?** Either twin can activate items to perform/gain the benefits written on the item. Items with use slot are triggered by both twins. Items with passive bonuses are gained by both twins. Here are a list of FH items that are potentially confusing:
 
 <details>
@@ -48,6 +49,59 @@ ___
 <details>
   <summary>FH items 21, 36, 48, 130, 138, 147</summary>
   Applies to both twins.
+</details>
+
+
+**Battle goals?** For battle goals, the general rule of thumb is to remember that "you" is not an individual figure, but "you" is the player. So battle goals are often telling "you", the player, what to do, not an individual twin. Use your gut to judge what the spirit of the battle goal is. For ones where you are not sure, here are some specific clarifications and rulings that you may choose to follow:
+
+<details>
+  <summary>Sluggard</summary>
+  The twin that is at maximum health should be the one that suffered damage.
+</details>
+
+<details>
+  <summary>Assistant, Optimist</summary>
+  Remember that your other twin does count as an ally.
+</details>
+
+<details>
+  <summary>Recluse</summary>
+  Count the other twin as a figure for this battle goal, and give yourself an extra checkmark if there are three or four characters, instead.
+</details>
+
+<details>
+  <summary>Rambler</summary>
+  Each twin can trigger the counter for this. So if one twin doesn't move, but the other does, and then the next turn neither twin moves, that hits the limit of turns in which you can't move.
+</details>
+
+<details>
+  <summary>Masochist, Perfectionist</summary>
+  Either twin can end the scenario like this to get the checkmark.
+</details>
+
+<details>
+  <summary>Wallflower</summary>
+  As long as at least one twin is adjacent to a wall, obstacle, or objective, then you do complete this battle goal. Feel free to try and go for both if you feel like it; it's fun!
+</details>
+
+<details>
+  <summary>Miser</summary>
+  If either twin exits the room, you fail this one.
+</details>
+
+<details>
+  <summary>Shriker</summary>
+  Ignore the occupancy of the other twin for this battle goal. The twin that gets the kill should be not adjacent to that enemy, and adjacent to another.
+</details>
+
+<details>
+  <summary>Slowpoke</summary>
+  Each twin may move two each turn. Being moved while stacked does count for this, so if one twin moves two and then stacks on top, and then the other twin moves two hexes, the first twin has now moved 4 hexes, failing the battle goal.
+</details>
+
+<details>
+  <summary>Diehard</summary>
+  If either twin's health falls below half, you fail the battle goal.
 </details>
 
 **Scenarios?**
